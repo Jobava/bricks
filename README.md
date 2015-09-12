@@ -12,8 +12,10 @@ Installing
 ==========
 
 This requires [Numpy](http://www.numpy.org),
-[Matplotlib](http://www.matplotlib.org), and [Pyglet](http://pyglet.org). The latter can easily be installed with:
+[Matplotlib](http://www.matplotlib.org), and [Pyglet](http://pyglet.org). All three can be installed by pip if needed:
 
+    pip install numpy
+    pip install matplotlib
     pip install pyglet
 
 For now this repository is not a package, so you don't need to install it - just clone the repository and you are good to go:
