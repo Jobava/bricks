@@ -1,7 +1,7 @@
 About
 =====
 
-Experimental clone of the classic 'brick breaking' games. This is just for fun
+Experimental clone of the classic [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) game. This is just for fun
 and to experiment with the [pyglet](http://www.pyglet.org) library.
 
 ![screenshot](screenshot.png)
