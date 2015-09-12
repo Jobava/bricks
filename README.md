@@ -6,7 +6,7 @@ and to experiment with the [pyglet](http://www.pyglet.org) library.
 
 ![screenshot](screenshot.png)
 
-**Note:** This is not feature complete in any way!
+**Disclaimer:** This is not feature complete in any way (for example there are no scores yet), and is also not meant to be the fastest/most efficient implementation.
 
 Installing
 ==========
