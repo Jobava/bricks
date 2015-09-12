@@ -10,8 +10,8 @@ from sprites import Ball, Rectangle
 # Set global options
 
 EMPTY_HEIGHT = 300
-BRICK_WIDTH = 130
-BRICK_HEIGHT = 20
+BRICK_WIDTH = 100
+BRICK_HEIGHT = 18
 NX = 7
 NY = 12
 MARGIN = 5
